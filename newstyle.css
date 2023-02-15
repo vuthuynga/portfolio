@@ -263,7 +263,7 @@ h2 {
     margin-right: 25%;
 }
 .how_1 {
-    margin-top: 4%;
+    margin-top: 10%;
 }
 .how_2 {
     margin-top: 4%;
@@ -287,6 +287,15 @@ h2 {
     .change {
         display: contents;
     }
+    .nameofcontact {
+        margin-bottom: 20px;
+    }
+    #iconss {
+        padding: 50px 0;
+    }
+    .myname {
+        padding-top: 0;
+    }
     .how {
         flex-direction: column;
         margin-right: 0 ;
@@ -306,6 +315,8 @@ h2 {
     .name {
         text-align: start;
         padding-left: 30px;
+        padding-top: 35px;
+        line-height: 0;
     }
     .close {
         position: absolute;
